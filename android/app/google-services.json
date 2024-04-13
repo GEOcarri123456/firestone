@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487158011158",
+    "project_id": "firestone-ea8f5",
+    "storage_bucket": "firestone-ea8f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487158011158:android:104b800ae7dceb2650ac37",
+        "android_client_info": {
+          "package_name": "com.example.firestone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc7g5hLM-4T4NAOserFQ4y2vDQahvUW8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487158011158:android:c24a025dbc7a6e2f50ac37",
+        "android_client_info": {
+          "package_name": "com.utrm.firestone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc7g5hLM-4T4NAOserFQ4y2vDQahvUW8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
